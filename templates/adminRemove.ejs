@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8" />
+	<title>summerCamp</title>
+</head>
+
+<body>
+    <h1>Removing All Applicants</h1>
+    <form action="/adminRemove" method="post" onsubmit="return remove()">
+        <input type="submit" value="Remove All Applicants" id ="submit">
+    </form>
+    <hr>
+    <a href="/">Home</a>
+    <script>
+        // Client-side JavaScript
+        function remove() {
+            let text1 = "Are you sure you want to remove all applications?";
+            return confirm(text1);
+        }
+    </script>
+</body>
+
+</html>
