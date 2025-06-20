@@ -18,10 +18,10 @@ This project highlights how different layers of a web application work together 
 
 ![Screenshot 2025-06-20 at 1 21 28 PM](https://github.com/user-attachments/assets/5fecfe1a-0de7-46cf-96ef-8096f67442ac)
 
-![Screenshot 2025-06-20 at 1 21 51 PM](https://github.com/user-attachments/ass
+![Screenshot 2025-06-20 at 1 21 51 PM](https://github.com/user-attachments/assets/b78edf98-ca7a-4347-888f-8f33d5d4f39d)
 
 ![Screenshot 2025-06-20 at 1 21 59 PM](https://github.com/user-attachments/assets/61f18f0f-c5fa-43e4-bfb3-ad91f6d7eef1)
-ets/b78edf98-ca7a-4347-888f-8f33d5d4f39d)
+
 
 ![Screenshot 2025-06-20 at 1 23 17 PM](https://github.com/user-attachments/assets/00fdd4fc-3043-410e-9c1e-df1c0126f1ac)
 
