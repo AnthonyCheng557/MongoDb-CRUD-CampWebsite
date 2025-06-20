@@ -16,3 +16,4 @@ This project highlights how different layers of a web application work together 
   - Review and update user details
   - Delete entries when necessary
 
+![Screenshot 2025-06-20 at 1 21 28 PM](https://github.com/user-attachments/assets/5fecfe1a-0de7-46cf-96ef-8096f67442ac)
