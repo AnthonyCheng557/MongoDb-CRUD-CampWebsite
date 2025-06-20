@@ -1,4 +1,4 @@
-## Fundamentals in CRUD Techniques Using NoSQL MongoDB
+## Fundamentals in CRUD Using NoSQL MongoDB
 
 This project demonstrates core CRUD (Create, Read, Update, Delete) operations within a full-stack web application using a **NoSQL MongoDB** database. It features both user and admin workflows to efficiently manage application data.
 
